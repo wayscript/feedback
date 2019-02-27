@@ -8,4 +8,4 @@
 Thank you for being a part of the WayScript community!
 
 Sincerely, </br>
-Team [<img src="https://user-images.githubusercontent.com/31461850/53454621-a1b39500-39dc-11e9-9b3c-276451d42437.png" width="80px" alt="WayScript" align="center">](https://wayscript.com)
+Team WayScript
