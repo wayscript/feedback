@@ -3,7 +3,7 @@
 
 ### Be a superhero!
 
-[**Create a new issue**](https://github.com/wayscript/feedback/issues/new) to track any bugs, feature requests, or feedback you would like to share with the WayScript team.
+[**CLICK HERE**](https://github.com/wayscript/feedback/issues/new) to submit bugs, feature requests, or feedback you would like to share with the WayScript team.
 
 Thank you for being a part of the WayScript community!
 
